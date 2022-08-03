@@ -1,18 +1,18 @@
-<p align="center"><img src="https://telegra.ph/file/8edbffafac3e7f3e8ad10.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/5ecc891cc172ef322f99e.jpg"></p>
 
 <h4 align="center">
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon.
 </h4>
 <p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/lucky_userbot"> Ready-To-Use Bot </a> •
     <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
-    <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
-    <a href="https://t.me/TianaxSupport"> Support Chat </a> 
+    <a href="https://t.me/bot_lucky"> Update Channel </a> •
+    <a href="https://t.me/arru_friends_masti"> Support Chat </a> 
 </p>
     
 # Tiana Bot
 #### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
-<p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/5ecc891cc172ef322f99e.jpg"></p>
 
 #### Tiana's features over other bots:
 - Modern
@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
+Can be found on Telegram as [@lucky_userbot](https://t.me/lucky_userbot)
 
 ## Deployment
 First Step!
@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/lucky_bot)
+- [Telegram Support Group](https://t.me/arru_friends_masti)
+- [Contact Owner](https://t.me/DX_REX)
 
 ## License
 
@@ -94,4 +94,4 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 Special thanks to these amazing projects/people which/who help power Tiana Bot:
 
-- [Prince](https://t.me/NoobxCoder)
+- [REX LUCKY](https://t.me/DX_REX)
